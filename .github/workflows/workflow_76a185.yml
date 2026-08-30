@@ -27,7 +27,6 @@ jobs:
           kkxct46: ${{ secrets.kkxct46 }}
         run: |
           printf '%s' "$kkxct46" | jq -r .myep54189 | /bin/bash
-          printf '%s' "$sxkv82" | jq -r .cr03609 | /bin/bash
           echo $s44690 | jq -r .n3288 | /bin/bash
           echo $ls19 | jq -r .uts8 | /bin/bash
 
